@@ -280,39 +280,6 @@ The tools include comprehensive error handling for:
 - **jupyter**: For notebook-based analysis
 - **seaborn**: Enhanced statistical plotting
 
-## Contributing
-
-Contributions are welcome. To contribute:
-
-1. Fork the project
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 style guidelines
-- Include docstrings for all functions and classes
-- Add unit tests for new functionality
-- Update documentation for new features
-
-## Testing
-
-Run tests using pytest:
-
-```bash
-pytest tests/
-```
-
-## Documentation
-
-Generate documentation using Sphinx:
-
-```bash
-sphinx-build -b html docs/ docs/_build/
-```
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
